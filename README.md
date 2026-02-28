@@ -29,6 +29,14 @@ The result is controlled startup, protection of the ATX supply, and improved tra
 > If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
 > It helps others discover the project and motivates me to keep building and sharing more.
 
+## 🔹 Construction
+
+![Softy 1](<Construction/Softy 1.jpg>)
+
+![Softy 2](<Construction/Softy 2.jpg>)
+
+![Softy 3](<Construction/Softy 3.jpg>)
+
 ## 🔹 Rev 1 Schematic
 
 ![Rev 1](<Schematics/Rev 1.png>)
